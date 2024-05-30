@@ -212,11 +212,6 @@ header {
     opacity: 0;
 }
 
-
-
-
-
-
 .hamburger {
     display: block;
     position: relative;
@@ -289,8 +284,6 @@ header {
     }
 }
 
-
-
 /*  My services section  */
 
 .my-services {
@@ -338,7 +331,6 @@ header {
         margin-left: 2em;
     }
 }
-
 
 .about-me {
     max-width: 1000px;
